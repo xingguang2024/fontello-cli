@@ -1,0 +1,2 @@
+# fontello-cli
+Generate iconfont
